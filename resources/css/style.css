@@ -2,8 +2,38 @@ html{
 	font-family: Verdana, sans-serif;
 	color: white;
 	background-color: black;
+	text-align: center;
+}
+
+h1, h3, a{
+	font-weight: normal;
 }
 
 h1{
-	text-align: center;
+	font-size: 50px;
 }
+
+h2{
+	font-size: 42px;
+	font-weight: 300;
+}
+
+h3{
+	font-size: 21px;
+	color: gray;
+}
+
+h3.copyright{
+	text-align: right;
+}
+
+a{
+	color: Aquamarine;
+	font-size: 16px;
+}
+
+img{
+	margin-top: 20px;
+}
+
+
